@@ -1,0 +1,25 @@
+.carde{
+
+    border: 2px solid black;
+    width:80%;
+   display: inline-block;
+    margin-top: 40px;
+    box-shadow: 15px 15px 35px rgba(0,0,0,0.9);
+    font-family: roboto;
+    text-align: center;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+.button{
+    float: right;
+}
+.name{
+    color:white;
+    text-decoration-line: underline;
+}
+
+.carde:hover {
+    transform: scale(1.05);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+
+  }
