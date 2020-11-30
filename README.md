@@ -5,7 +5,7 @@ Frontend:
 uitilice la api de openWeathermap. para obtener los prosimox 5 dias de una ciudad con sus respectivos climas.
 
 backend: 
-cree una carpeta api, donde instale axios, cors(para perimitir usar la api externa', express y nodemon. en index.js iniciualize el servidor y empece a crear las rutas.
+cree una carpeta api, donde instale axios, cors(para perimitir usar la api externa', express y nodemon. en index.js inicialize el servidor y empece a crear las rutas.
 Problema: todavia no se conecto al front
 ## instalar backend
 para comenzar a hacer funcionar el back tiene que hacer npm install para instalar las dependencias y npm start para comenzar a correrlo
