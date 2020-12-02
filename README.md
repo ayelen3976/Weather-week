@@ -2,7 +2,7 @@
 run app>> https://client-theta-green.vercel.app/
 
 Frontend:
-uitilice la api de openWeathermap. para obtener los prosimox 5 dias de una ciudad con sus respectivos climas.
+uitilice la api de openWeathermap. para obtener los proximos 5 dias de una ciudad con sus respectivos climas.
 
 backend: 
 cree una carpeta api, donde instale axios, cors(para perimitir usar la api externa', express y nodemon. en index.js inicialize el servidor y empece a crear las rutas.
